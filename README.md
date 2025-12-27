@@ -22,29 +22,29 @@ reliable predictions.
 
 ## Repository Structure
 
-- `Exploratory Data Analysis.ipynb` 
-   Notebook for data exploration, visualization, and insights.
+- `Exploratory Data Analysis.ipynb`  
+  Notebook for data exploration, visualization, and insights.
 
-- `Feature Engineering.ipynb`
-   Notebook for feature engineering and preprocessing data.
+- `Feature Engineering.ipynb`  
+  Notebook for feature engineering and preprocessing data.
 
-- `Modeling.ipynb`
-   Notebook for model training, evaluation, and comparison.
+- `Modeling.ipynb`  
+  Notebook for model training, evaluation, and comparison.
 
-- `train.csv`
-   The training dataset that will be use for exploring and feature engineering.
+- `train.csv`  
+  The training dataset used for exploration and feature engineering.
 
-- `test.csv`
-   The test dataset that will be use for exploring and feature engineering.
+- `test.csv`  
+  The test dataset used for exploration and feature engineering.
 
-- `train_fe.csv`
-   The feature engineered training data for modeling.
+- `train_fe.csv`  
+  Feature-engineered training data for modeling.
 
-- `test_fe.csv`
-   The feature engineered test data for modeling.
+- `test_fe.csv`  
+  Feature-engineered test data for modeling.
 
-- `submission_xgboost.csv`
-   Final prediction results.
+- `submission_xgboost.csv`  
+  Final prediction results.
 
 ---
 
